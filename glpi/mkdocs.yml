@@ -1,0 +1,14 @@
+site_name: GLPI
+
+nav:
+  - Home: home.md
+  - Introdução: introducao.md
+  - GLPI: GLPI.md
+  - MKdocs: MKdocs.md
+  - Conclusão: conclusao.md
+
+
+theme:
+  name: material
+  palette:
+    primary: green
