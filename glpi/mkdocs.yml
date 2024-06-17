@@ -1,7 +1,9 @@
 site_name: GLPI
 
+site_url: http://127.0.0.1:8000/
+
 nav:
-  - Home: home.md
+  - Home: index.md
   - Introdução: introducao.md
   - GLPI: GLPI.md
   - MKdocs: MKdocs.md
