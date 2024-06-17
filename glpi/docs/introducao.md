@@ -2,4 +2,4 @@
 
 ## Introdução
 
-Este site de documentação oferece uma visão detalhada sobre o MkDocs e o GLPI, abordando suas funcionalidades, processos de instalação, configuração e uso. Durante nosso curso de Ciência da Computação no IFMA Campus Imperatriz, tivemos a oportunidade de explorar várias ferramentas que facilitam a gestão de TI. Entre elas, MkDocs e GLPI se destacaram, tornando-se os principais focos do nosso estudo. Esta documentação, elaborada pela turma do 5º período, reúne todo o conhecimento adquirido e as melhores práticas para utilizar esses sistemas eficientemente.
+Durante o curso de Ciência da Computação no IFMA Campus Imperatriz, nós nos dedicamos à exploração de ferramentas fundamentais para a gestão de Tecnologia da Informação. Duas delas se destacaram significativamente em nosso estudo: MkDocs e GLPI. Este documento, meticulosamente preparado pela turma do 5º período, representa uma compilação abrangente de nosso aprendizado e das melhores práticas para a utilização otimizada desses sistemas.
